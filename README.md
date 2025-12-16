@@ -55,13 +55,11 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 ## ⚙️ Frameworks & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,git,github,docker,azure,windows" />
+  <img src="https://skillicons.dev/icons?i=laravel,git,github,windows" />
 </p>
 
 - Laravel (PHP)
 - Git / GitHub
-- Docker (conceitos)
-- Azure (integrações e ambiente)
 - Windows Server
 
 ---
