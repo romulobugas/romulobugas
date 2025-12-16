@@ -12,12 +12,12 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 ## 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python" />
 </p>
 
 - C#
 - .NET Core / .NET 8
-- APIs REST
+- Desenvolvimento de APIs REST
 - Arquitetura em camadas
 - Processamento assíncrono
 - Integrações com sistemas externos (WMS, SAP, APIs)
@@ -40,14 +40,16 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 ## 🗄️ Bancos de Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql" />
 </p>
 
-- PostgreSQL  
-- MySQL  
-- Modelagem de dados  
-- Análise de performance  
-- Queries complexas  
+- **Microsoft SQL Server (principal)**
+- PostgreSQL
+- MySQL
+- Modelagem de dados
+- Análise de performance
+- Queries complexas
+- Tuning, índices e análise de planos de execução
 
 ---
 
@@ -65,14 +67,12 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 ---
 
 ## 🤖 IA & Automação
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
+- Python
 - LangChain
 - Automação de processos
-- Integração de LLMs em projetos experimentais
-- Scraping e processamento de dados
+- Integração experimental com LLMs
+- Processamento e extração de dados
 
 ---
 
