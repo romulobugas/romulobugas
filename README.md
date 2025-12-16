@@ -12,7 +12,7 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 ## 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,php" />
 </p>
 
 - C#
