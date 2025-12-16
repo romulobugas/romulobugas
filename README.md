@@ -17,10 +17,11 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 - C#
 - .NET Core / .NET 8
+- PHP
 - Desenvolvimento de APIs REST
 - Arquitetura em camadas
 - Processamento assíncrono
-- Integrações com sistemas externos (WMS, SAP, APIs)
+- Integrações com sistemas externos (WMS, SAP, ERP, APIs)
 
 ---
 
@@ -43,7 +44,7 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" />
 </p>
 
-- **Microsoft SQL Server (principal)**
+- **Microsoft SQL Server**
 - PostgreSQL
 - MySQL
 - Modelagem de dados
@@ -68,6 +69,9 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 - Python
 - LangChain
+- PuppeteerSharp
+- Selenium
+- ChromeDriver
 - Automação de processos
 - Integração experimental com LLMs
 - Processamento e extração de dados
