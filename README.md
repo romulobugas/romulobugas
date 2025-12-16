@@ -40,7 +40,7 @@ Foco em backend, qualidade de código, performance, arquitetura e integração d
 
 ## 🗄️ Bancos de Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlserver" />
 </p>
 
 - **Microsoft SQL Server (principal)**
