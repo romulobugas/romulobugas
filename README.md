@@ -1,40 +1,95 @@
-## 👋 Rômulo Mauriz
-
-**Backend Developer | .NET | APIs & Integrações**
-
-Foco em backend, qualidade de código, performance e arquitetura.
-
-### 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,net,python,api" />
+  <img src="./assets/banner.png" alt="Banner Rômulo Mauriz" />
 </p>
 
-### 🎨 Frontend
+# 👋 Rômulo Mauriz
+
+**Fullstack Developer | Strong Backend (.NET) | APIs & Integrações**
+
+Foco em backend, qualidade de código, performance, arquitetura e integração de sistemas.
+
+---
+
+## 🧠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,php,python" />
 </p>
 
-### 🗄️ Bancos de Dados
+- C#
+- .NET Core / .NET 8
+- APIs REST
+- Arquitetura em camadas
+- Processamento assíncrono
+- Integrações com sistemas externos (WMS, SAP, APIs)
+
+---
+
+## 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlserver,postgres" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
 
-### ⚙️ Outros
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+
+> Utilizado para construção de interfaces, dashboards e suporte a aplicações fullstack.
+
+---
+
+## 🗄️ Bancos de Dados
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure,docker,windows" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-## 🚀 Projetos em Destaque
+- PostgreSQL  
+- MySQL  
+- Modelagem de dados  
+- Análise de performance  
+- Queries complexas  
+
+---
+
+## ⚙️ Frameworks & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,git,github,docker,azure,windows" />
+</p>
+
+- Laravel (PHP)
+- Git / GitHub
+- Docker (conceitos)
+- Azure (integrações e ambiente)
+- Windows Server
+
+---
+
+## 🤖 IA & Automação
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- LangChain
+- Automação de processos
+- Integração de LLMs em projetos experimentais
+- Scraping e processamento de dados
+
+---
+
+## 🚀 Projeto em Destaque
 
 ### 🔹 BetSniffer
-Plataforma de scraping e arbitragem com arquitetura modular em .NET 8.
+Plataforma de scraping e arbitragem com arquitetura modular em **.NET 8**.
 
 - Scraping híbrido (Selenium + Puppeteer)
 - API REST organizada por serviços
 - Processamento paralelo
 - Observabilidade e logs
+- Arquitetura orientada a domínio
 
-🔗 Em desenvolvimento
+🔧 Em desenvolvimento
+
+---
 
 ## 📊 GitHub Stats
 
@@ -43,9 +98,7 @@ Plataforma de scraping e arbitragem com arquitetura modular em .NET 8.
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobugas&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romulobugas&theme=tokyonight&hide_border=true"/>
-</p>
+---
 
 ## 📬 Contato
 
