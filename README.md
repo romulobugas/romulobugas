@@ -1,126 +1,59 @@
-# 👋 Rômulo Mauriz
+## 👋 Rômulo Mauriz
 
-**Tech Lead em atuação / Desenvolvedor .NET Pleno**  
-Especialista em **Backend, Arquitetura de APIs e Integração de Sistemas**
+**Backend Developer | .NET | APIs & Integrações**
 
-📍 Fortaleza – CE  
-📧 romulo.mauriz@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/rômulo-mauriz-7267a487)  
-💻 [GitHub](https://github.com/romulobugas)
+Foco em backend, qualidade de código, performance e arquitetura.
 
----
+### 🧠 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,net,python,api" />
+</p>
 
-## 🧠 Sobre mim
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,angular" />
+</p>
 
-Sou desenvolvedor backend com sólida experiência em **plataformas corporativas de alta criticidade**, atuando fortemente com **.NET, arquitetura de APIs, performance e integração de sistemas**.
+### 🗄️ Bancos de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres" />
+</p>
 
-Tenho perfil técnico analítico, visão sistêmica e forte preocupação com **qualidade de código, escalabilidade, observabilidade e resiliência**. Atuo em todo o ciclo de entrega — do desenho da solução à sustentação em produção — sempre conectando necessidades do negócio à viabilidade técnica.
-
-Atualmente exerço papel de **referência técnica** em projetos logísticos de grande porte, apoiando decisões arquiteturais, refatorações estratégicas e entregas críticas.
-
----
-
-## 🧑‍💻 Experiência Profissional
-
-### **LinkedBy** — Desenvolvedor .NET Pleno  
-**2020 – Atual | Fortaleza – CE**
-
-Atuação em soluções logísticas corporativas com alto volume de dados e integrações complexas.
-
-**Principais responsabilidades:**
-- Desenvolvimento e padronização de **APIs REST escaláveis** (.NET 6 / .NET 8)
-- Apoio direto em **decisões arquiteturais** e desenho de soluções técnicas
-- Refatoração de código legado e aplicação de boas práticas
-- Uso avançado de **Entity Framework Core** com foco em performance
-- Modelagem de dados, análise de planos de execução e indexação
-- Integrações com **WMS, SAP, roteirizadores e dispositivos PTL**
-- Suporte técnico a squads de implantação, QA e produção
-- Migração de módulos **ASP.NET Framework → .NET Core 8**
-
-**Resultados e impactos:**
-- Atuação técnica em implantações estratégicas (Nestlé, Nespresso, Dolce Gusto, entre outros)
-- Redução de falhas críticas em produção
-- Melhoria significativa de performance em APIs e workloads de banco
-- Padronização arquitetural e documental para novos projetos
-- Aumento da estabilidade e previsibilidade pós-go-live
-
----
+### ⚙️ Outros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,azure,docker,windows" />
+</p>
 
 ## 🚀 Projetos em Destaque
 
-### **BetSniffer** — Plataforma de Scraping & Arbitragem  
-🔧 **.NET 8 | EF Core | SQL Server | Selenium | PuppeteerSharp**
+### 🔹 BetSniffer
+Plataforma de scraping e arbitragem com arquitetura modular em .NET 8.
 
-Projeto pessoal focado em engenharia de backend, automação e processamento de dados.
+- Scraping híbrido (Selenium + Puppeteer)
+- API REST organizada por serviços
+- Processamento paralelo
+- Observabilidade e logs
 
-**Principais características:**
-- Scraping híbrido com simulação realista de navegação humana
-- Arquitetura modular orientada a serviços
-- API documentada com frontend integrado
-- Execução paralela e orquestração interna de processos
-- Motor de arbitragem com cálculos seguros
-- Logs detalhados, observabilidade e mecanismos de recuperação
+🔗 Em desenvolvimento
 
-👉 Projeto criado para demonstrar domínio em:
-**arquitetura backend, automação avançada, engenharia de dados e sistemas resilientes**
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romulobugas&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobugas&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## 🧰 Stack Técnica
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romulobugas&theme=tokyonight&hide_border=true"/>
+</p>
 
-### Backend
-- C#, .NET Core / .NET 8
-- APIs REST
-- Async/Await
-- SOLID & Clean Architecture
+## 📬 Contato
 
-### Banco de Dados
-- SQL Server
-- T-SQL
-- Análise de planos de execução
-- Indexação e tuning de performance
-
-### Automação
-- Selenium + ChromeDriver
-- PuppeteerSharp
-
-### Frontend
-- HTML, CSS, JavaScript
-- Bootstrap
-- Angular (experiência)
-
-### Infra & Dev
-- Git (GitHub / Bitbucket)
-- Logs e telemetria
-- Windows Server
-- Docker (conceitos)
-- CI/CD (conceitos)
-
----
-
-## 🔍 Estudos e Interesses Técnicos (Em evolução)
-
-- Fundamentos de **Blockchain**
-- Lightning Network (microtransações em Bitcoin)
-- APIs de pagamento e canais de liquidação
-- Conceitos de privacidade e criptografia
-- Experimentos com assinaturas digitais e carteiras
-
----
-
-## 🎓 Formação
-
-**CST em Análise e Desenvolvimento de Sistemas**  
-UniAteneu
-
----
-
-## 🌎 Idiomas
-- Português: Nativo  
-- Inglês: Intermediário  
-- Espanhol: Intermediário
-
----
-
-📌 *Este repositório representa meu perfil técnico e projetos pessoais.  
-Sinta-se à vontade para explorar, conectar ou trocar ideias.*
+<p align="center">
+  <a href="mailto:romulo.mauriz@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/rômulo-mauriz-7267a487">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
