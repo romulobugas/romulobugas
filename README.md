@@ -96,9 +96,23 @@ Plataforma de scraping e arbitragem com arquitetura modular em **.NET 8**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romulobugas&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobugas&layout=compact&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=romulobugas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=romulobugas&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobugas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulobugas&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </picture>
 </p>
+
 
 ---
 
